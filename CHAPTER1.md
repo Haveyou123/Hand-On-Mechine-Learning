@@ -10,5 +10,7 @@ The primary goals of applying machine learning are statistical analysis and pred
 You could think of machine learning as a "worker" capable of self-learning, self-improvement, and gaining experience over time. But how exactly does machine learning operate, and what mechanisms lie behind its remarkable capabilities?
 
 1. The "self-learning" process of Machine Learning
-   
+
+
+   <img src="https://lh6.googleusercontent.com/FVypcunht5yvMvrgbJfbMWvSjb4q_x57fI4r66JV6SGQ5YGXxqLx25nRuPzuYyOdK_wXygoB0OnS4EeZ9x0r_Yn1PPchisFOzHH85fSX-ADbgd7F5un19_qPnfARyGw6h7DO5vUojBm0rzpD2vmqF-CY9MqZuf0X0klJbXDV_jYJt4EljSANflwVyCJ6fg" width="600" alt="self-learning"/>
 
