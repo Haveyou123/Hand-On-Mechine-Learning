@@ -1,35 +1,35 @@
 # Hand-On-Mechine-Learning
 # Beginners
 
-Chapter 1: The Machine Learning Landscape
+1. Chapter 1: The Machine Learning Landscape
 
-Chapter 2: End-to-End Machine Learning Project
+2. Chapter 2: End-to-End Machine Learning Project
 
-Chapter 3: Classification	
+3. Chapter 3: Classification	
 
-Chapter 4: Training Models
+4. Chapter 4: Training Models
 
-Chapter 5: Support Vector Machines
+5. Chapter 5: Support Vector Machines
 
-Chapter 6: Decision Trees
+6. Chapter 6: Decision Trees
 
-Chapter 7: Ensemble Learning and Random Forests
+7. Chapter 7: Ensemble Learning and Random Forests
 
-Chapter 8: Dimensionality Reduction
+8. Chapter 8: Dimensionality Reduction
 
-Chapter 9: Up and Running with TensorFlow 
+9. Chapter 9: Up and Running with TensorFlow 
 
-Chapter 10: Introduction to Artificial Neural Networks 
+10. Chapter 10: Introduction to Artificial Neural Networks 
 
-Chapter 11: Training Deep Neural Nets
+11. Chapter 11: Training Deep Neural Nets
 
-Chapter 12: Distributing TensorFlow Across Devices and
+12. Chapter 12: Distributing TensorFlow Across Devices and
 Servers
 
-Chapter 13: Convolutional Neural Networks
+13. Chapter 13: Convolutional Neural Networks
 
-Chapter 14: Recurrent Neural Networks
+14. Chapter 14: Recurrent Neural Networks
 
-Chapter 15: Autoencoders
+15. Chapter 15: Autoencoders
 
-Chapter 16: Reinforcement Learning
+16. Chapter 16: Reinforcement Learning
